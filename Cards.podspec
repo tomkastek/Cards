@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.screenshots      = 'https://raw.githubusercontent.com/PaoloCuscela/Cards/master/Images/Header.png', 'https://raw.githubusercontent.com/PaoloCuscela/Cards/master/Images/DetailView.gif'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Paolo Cuscela' => 'cuscio.2@gmail.com'}
-  s.source           = { :git => 'https://github.com/PaoloCuscela/Cards.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/tomkastek/Cards', :tag => s.version.to_s }
 
   s.ios.deployment_target = '9.0'
   s.source_files = 'Cards/Sources/*'
