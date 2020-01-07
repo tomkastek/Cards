@@ -1,7 +1,7 @@
 {
   "name": "Cards",
-  "version": "1.3.5",
-  "summary": "Awesome iOS 11 appstore cards in swift 4.",
+  "version": "1.4.2",
+  "summary": "Awesome iOS 11 appstore cards in swift 5.",
   "homepage": "https://github.com/PaoloCuscela/Cards",
   "screenshots": [
     "https://raw.githubusercontent.com/PaoloCuscela/Cards/master/Images/Header.png",
@@ -15,8 +15,8 @@
     "Paolo Cuscela": "cuscio.2@gmail.com"
   },
   "source": {
-    "git": "https://github.com/PaoloCuscela/Cards.git",
-    "tag": "1.3.5"
+    "git": "https://github.com/tomkastek/Cards",
+    "tag": "1.4.2"
   },
   "platforms": {
     "ios": "9.0"

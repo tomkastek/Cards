@@ -111,6 +111,7 @@ import UIKit
             detailVC.detailView = content.view
             detailVC.card = self
             detailVC.delegate = self.delegate
+            detailVC.isFullscreen = true
             detailVC.modalPresentationStyle = .fullScreen
         }
     }
