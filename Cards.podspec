@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'Cards'
-  s.version          = '1.4.1'
+  s.version          = '1.4.2'
   s.summary          = 'Awesome iOS 11 appstore cards in swift 5.'
   s.homepage         = 'https://github.com/PaoloCuscela/Cards'
   s.screenshots      = 'https://raw.githubusercontent.com/PaoloCuscela/Cards/master/Images/Header.png', 'https://raw.githubusercontent.com/PaoloCuscela/Cards/master/Images/DetailView.gif'
